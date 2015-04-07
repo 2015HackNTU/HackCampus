@@ -1,2 +1,2 @@
 # HackCampus
-using technologies to improve NTU campus
+We are HackCampus in NTU
