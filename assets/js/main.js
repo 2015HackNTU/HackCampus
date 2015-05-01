@@ -17,7 +17,7 @@ dp(document).ready(function() {
     dp("#backtotop").backToTop();
     //PARALLAX
     dp('.bg-about').parallax("70%", 1);
-    dp('.bg-skill').parallax("10%", 1);
+    // dp('.bg-skill').parallax("10%", 1);
     //VIDEO BACKGROUND
     var videobackground = new dp.backgroundVideo(dp('.bg-video'), {
         "align": "centerXY",
